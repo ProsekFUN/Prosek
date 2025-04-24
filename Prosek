@@ -82,6 +82,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Milan08Studio/ChairWa
 local Button = MainTab:CreateButton({
    Name = "ps99 script+auto rank",
    Callback = function()
+-- .gg/scriptzroblox
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Verteniasty/Pet-rbx/refs/heads/main/loadstring"))()
    end,
 })
