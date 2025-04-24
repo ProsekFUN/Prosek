@@ -78,3 +78,10 @@ local Button = MainTab:CreateButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua"))()
    end,
 })
+
+local Button = MainTab:CreateButton({
+   Name = "ps99 script+auto rank",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Verteniasty/Pet-rbx/refs/heads/main/loadstring"))()
+   end,
+})
