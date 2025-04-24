@@ -80,7 +80,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Milan08Studio/ChairWa
 })
 
 local Button = MainTab:CreateButton({
-   Name = "ps99 script+auto rank",
+   Name = "ps99 script+auto rank dont work on jjsploit",
    Callback = function()
 -- .gg/scriptzroblox
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Verteniasty/Pet-rbx/refs/heads/main/loadstring"))()
